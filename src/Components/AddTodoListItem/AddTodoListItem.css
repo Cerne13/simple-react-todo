@@ -1,0 +1,11 @@
+.add-todo-list-item {
+	margin-top: 1em;
+}
+
+.add-todo-list-item input {
+	margin-right: 2px;
+}
+
+.btn-add-todo {
+	min-width: 100px;
+}
